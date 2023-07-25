@@ -9,12 +9,12 @@
  
   
 	  "SESSION_ID": {
-    "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session "
+    "description": " put your SESSION_ID  "
   },
 
 
   	  "READ_MESSAGE": {
-    "description": " Red Message     on= true     off =false "
+    "description": " Auto Seen     on= true     off =false "
   },
 
     
