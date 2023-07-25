@@ -1,7 +1,8 @@
 FROM quay.io/sampandey001/secktor
-RUN git clone https://github.com/ALPHAkaveen/Dark-Nero-v9 /root/ALPHAkaveen
+RUN git clone https://github.com/Kaveeshasithum/Dark-Nero-Bot-MD /root/Kaveeshasithum
 WORKDIR /root/ALPHAkaveen/
 RUN npm install npm@latest
 RUN yarn install --network-concurrency 1
 EXPOSE 8000
 CMD ["npm", "start"]
+
