@@ -49,7 +49,7 @@
    
    
 	  "AOTO_VOICS": {
-    "description": "AUTO VOICS ON OFF"
+    "description": "AUTO VOICS true   false"
   }
 },
 "formation": {
