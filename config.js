@@ -9,8 +9,8 @@ global.SESSION_ID =  process.env.SESSION_ID || "Darknero=li8wwIoQ#fBFr2ACDEvRjDW
 
 module.exports = { 
 
- READ_MESSAGE : process.env. READ_MESSAGE  === undefined ?'true': process.env. READ_MESSAGE,
-AOTO_VOICS: process.env.AOTO_VOICS  === undefined ? 'true' : process.env.AOTO_VOICS, 
+ READ_MESSAGE : process.env. READ_MESSAGE  === undefined ?'false': process.env. READ_MESSAGE,
+AOTO_VOICS: process.env.AOTO_VOICS  === undefined ? 'false' : process.env.AOTO_VOICS, 
 YOU_LINK :  process.env.YOU_LINK  === undefined ? 'https://github.com/Kaveeshasithum' : process.env.YOU_LINK,
 OWENR_NO: process.env.OWENR_NO === undefined ? '94757182131' : process.env.OWENR_NO,
 ANTI_BAD: process.env.ANTI_BAD === undefined ? 'false' : process.env.ANTI_BAD,
